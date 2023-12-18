@@ -1,6 +1,7 @@
 import  styled from 'styled-components';
+import { GlobalStyleComponent } from 'styled-components';
 
-export const GlobalStyleComponent = styled.div`
+export default GlobalStyleComponent  `
     *, body{
         margin: 0;
         padding: 0;
