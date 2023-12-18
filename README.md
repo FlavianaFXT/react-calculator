@@ -1,5 +1,5 @@
 # react-calculator
-EM DESENVOLVIMENTO - Calculadora utilizando o react, desenvolvida nas aulas práticas de react de curso da DIO - Digital Inovation One.
+EM DESENVOLVIMENTO - Calculadora utilizando o react, desenvolvida nas aulas práticas de react de curso da DIO - Digital Inovation One : - [CURSO AQUI](https://web.dio.me/project/calculadora/learning/1a2abe59-0b6c-4a90-b291-067eb708c5c1?back=/track/orange-tech&tab=undefined&moduleId=undefined)
 
 # CRIANDO UMA CALCULADORA COM REACT
 Cria o projeto e exclui os arquivos desnecessários.
